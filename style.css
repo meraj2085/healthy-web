@@ -48,6 +48,8 @@ body{
      background-image: url(./images/shapes/7.png);
      background-repeat: no-repeat;
      background-size: cover;
+     margin-bottom: 70px;
+
 }
 .about-s{
      width: 50%;
@@ -69,4 +71,19 @@ body{
 }
 .fokinni-img{
      padding-top: 90px;
+}
+
+/* Section 3 */
+
+#sec-3 .container{
+     display: flex;
+}
+.head-sec h1{
+     text-align: center;
+     font-size: 38px;
+     color: #000000a2;
+}
+.head-sec p{
+     text-align: center;
+     font-size: 21px;
 }
