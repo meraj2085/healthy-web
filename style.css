@@ -5,6 +5,7 @@ body{
 
 #sec-1{
      display: flex;
+     margin-bottom: 67px;
 }
 #sec-1 h1{
      font-size: 4em;
@@ -37,4 +38,35 @@ body{
      background-image: linear-gradient(orange, tomato);
      font-size: 24px;
      box-shadow: 0px 0px 25px rgba(255, 68, 0, 0.436);
+}
+
+
+/* Section 2 */
+
+#sec-2{
+     display: flex;
+     background-image: url(./images/shapes/7.png);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+.about-s{
+     width: 50%;
+}
+.about-s img{
+     width: 50%;
+     padding-left: 15%;
+}
+.about-s h1{
+     margin-top: 20%;
+     font-size: 3em;
+     color: #000000b0;
+}
+.about-s p{
+     max-width: 500px;
+     font-size: 20px;
+     text-align: justify;
+     margin-bottom: 10%;
+}
+.fokinni-img{
+     padding-top: 90px;
 }
