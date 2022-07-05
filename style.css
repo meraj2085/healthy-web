@@ -36,4 +36,5 @@ body{
      border-radius: 55px;
      background-image: linear-gradient(orange, tomato);
      font-size: 24px;
+     box-shadow: 0px 0px 25px rgba(255, 68, 0, 0.436);
 }
